@@ -2,8 +2,6 @@
 
 A modern web application that provides comprehensive information about countries worldwide using the [REST Countries API](https://restcountries.com/). This project focuses on high performance, clean UI, and optimized data fetching.
 
-## 🚀 Live Demo
-*(You can add your GitHub Pages or Vercel link here later)*
 
 ## ✨ Features
 
